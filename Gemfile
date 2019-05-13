@@ -1,3 +1,6 @@
+gem 'autoprefixer-rails'
+gem 'font-awesome-sass', '~> 5.6.1'
+gem 'simple_form'
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
